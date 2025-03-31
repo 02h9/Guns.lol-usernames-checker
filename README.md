@@ -5,7 +5,6 @@
 ---
 ## <a id="menu"></a>🍃 〢 Menu
 
-- [📩・Deploy With](#deploys)
 - [⚙️・Setting up](#setup)
 - [💼・Term](#terms)
 - [🕵️‍♂️・Authors](#authors)
