@@ -4,7 +4,7 @@ import string
 import time
 from colorama import Fore, init
 
-# colorama'yı başlat
+# démarrer colorama 
 init(autoreset=True)
 
 def random_letters(n):
